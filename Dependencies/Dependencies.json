@@ -1,0 +1,23 @@
+[
+    {
+        "path":"SDL",
+        "url":"https://github.com/libsdl-org/SDL.git",
+        "commit":"c1ef7793c75c2bde6321ec0c9894ea0b2a7694fe",
+        "patches":["SDL-static-crt.patch"]
+    },
+    {
+        "path":"BgfxBuild/bgfx",
+        "url":"https://github.com/bkaradzic/bgfx.git",
+        "commit":"8c8b6b5692be5054e89d2a59640c50b9319c9425"
+    },
+    {
+        "path":"BgfxBuild/bx",
+        "url":"https://github.com/bkaradzic/bx.git",
+        "commit":"98ad3bec2a7ee1a5cbabdcabc25252572dcb1d88"
+    },
+    {
+        "path":"BgfxBuild/bimg",
+        "url":"https://github.com/bkaradzic/bimg.git",
+        "commit":"ddbeeae05779f84f97694553eb41605a60f86f0a"
+    }
+]
